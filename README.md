@@ -22,9 +22,45 @@ Cara menjalankan di pc anda
 5. sesuaikan ip didalam Server.java (didalam class java) dengan ip pc masing masing. untuk cek bisa di cmd ketik "ipconfig" ,
 6. saat me run pastikan kabel data terhubung antara pc dan hp , juga pastikan hotspot dari hp diterima ke pc , nyalakan internet untuk hp nya.
 
-Nb: yang paling utama dan pertama baca Do'a dahulu, selamat mencoba hehe.........................
 
-<p><b>Berikut diagram projectnya </b> </p>
+
+<p size="20px"><b>Berikut diagram projectnya </b> </p></br>
+<p size="12px"><b>Use Case Diagram </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/usecase.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Activity Diagram </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_diagram.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Squence Diagram </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/squence_diagram.png" width="350" height="400"/>
+  </p>
+<p size="12px"><b>Class Diagram </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/class_diagram.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Layout Layar Login </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_login.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Layout Layar Register</b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_register.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Layout MainActivity </b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_mainactivity.png" width="350" height="400"/>
+</p>
+<p size="12px"><b>Layout Isi_Biodata</b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_upload.png" width="350" height="400"/>
+</p>
+
+
+Nb: Bila ditemukan masalah atau kesalahan yang perlu diperbaiki , mohon kritik dan sarannya .Pertama baca Do'a dahulu sebelum mencoba, selamat mencoba hehe.........................
+
 
 Wassalamu'alaikum wr wb
 
