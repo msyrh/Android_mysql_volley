@@ -24,6 +24,7 @@ Cara menjalankan di pc anda
 
 Nb: yang paling utama dan pertama baca Do'a dahulu, selamat mencoba hehe.........................
 
+<p><b>Berikut diagram projectnya </b> </p>
 
 Wassalamu'alaikum wr wb
 
