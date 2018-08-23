@@ -31,31 +31,31 @@ Cara menjalankan di pc anda
 </p>
 <p size="12px"><b>Activity Diagram </b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_diagram.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Activity_diagram.png" width="350" height="400"/>
 </p>
 <p size="12px"><b>Squence Diagram </b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/squence_diagram.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Squence_diagram.png" width="350" height="400"/>
   </p>
 <p size="12px"><b>Class Diagram </b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/class_diagram.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Class_diagram.png" width="500" height="600"/>
 </p>
 <p size="12px"><b>Layout Layar Login </b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_login.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Gambar_login.png" width="350" height="400"/>
 </p>
 <p size="12px"><b>Layout Layar Register</b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_register.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Gambar_register.png" width="350" height="400"/>
 </p>
 <p size="12px"><b>Layout MainActivity </b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_mainactivity.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Gambar_MainActivity.png" width="350" height="400"/>
 </p>
 <p size="12px"><b>Layout Isi_Biodata</b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/gambar_upload.png" width="350" height="400"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Gambar_Upload.png" width="350" height="400"/>
 </p>
 
 
