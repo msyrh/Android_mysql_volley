@@ -33,6 +33,18 @@ Cara menjalankan di pc anda
 <p align="center">
 <img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_login.png" width="500" height="600"/>
 </p>
+<p size="12px"><b>Activity Register</b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_register.png" width="500" height="600"/>
+</p>
+<p size="12px"><b>Activity Isi biodata</b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_isibiodata.png" width="500" height="600"/>
+</p>
+<p size="12px"><b>Activity Logout</b> </p></br>
+<p align="center">
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_logout.png" width="500" height="600"/>
+</p>
 <p size="12px"><b>Squence Diagram </b> </p></br>
 <p align="center">
 <img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/Squence_diagram.png" width="500" height="600"/>
