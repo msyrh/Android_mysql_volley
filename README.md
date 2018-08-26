@@ -35,7 +35,7 @@ Cara menjalankan di pc anda
 </p>
 <p size="12px"><b>Activity Register</b> </p></br>
 <p align="center">
-<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_register.png" width="500" height="600"/>
+<img src="https://github.com/muhammadsyarifhidayatulloh30/Android_mysql_volley/blob/master/activity_registrasi.png" width="500" height="600"/>
 </p>
 <p size="12px"><b>Activity Isi biodata</b> </p></br>
 <p align="center">
